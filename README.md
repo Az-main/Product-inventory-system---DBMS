@@ -1,4 +1,10 @@
-# Product Inventory System
+# 📦 Product Inventory System
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appuct-inventory-system---dbms-ecceamtn2mddwgtdjsvksc.streamlit.app/)
+
+**Live Demo:** [Click here to use the app](https://appuct-inventory-system---dbms-ecceamtn2mddwgtdjsvksc.streamlit.app/)
+
+
 
 A simple Product Inventory application built with **Python**, **Streamlit**, and **MySQL**.
 
@@ -78,3 +84,4 @@ Product_Inventory_App/
 ## Author
 
 DBMS Lab Assignment - 7th Trimester
+
